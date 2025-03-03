@@ -1360,12 +1360,8 @@ a {
   height: 800px;
   top: 0px;
   left: 0px;
-  /* background: center center/ cover no-repeat scroll content-box border-box url("https://content.pancake.vn/1/s840x1600/fwebp/70/9f/d6/5e/19d5123521ffb7d85d46c600caeb5f071a84f2df3eaf64d066f66759.png"); */
 }
 
-#w-w7mf2ft4 .image-background.fb {
-  /* background: center center/ cover no-repeat scroll content-box border-box url("https://content.pancake.vn/1/s840x1600/70/9f/d6/5e/19d5123521ffb7d85d46c600caeb5f071a84f2df3eaf64d066f66759.png"); */
-}
 
 #w-w7mf2ft4 .image-background-compare {
   background: undefined;
@@ -1373,14 +1369,10 @@ a {
 }
 
 #w-ky87yz5r {
-  top: 559px;
+  top: 670px;
   left: 0px;
   width: 421px;
   height: 60px;
-}
-
-#w-ky87yz5r .text-block {
-  background: ;
 }
 
 #w-ky87yz5r .text-block-css {
@@ -1392,15 +1384,12 @@ a {
 }
 
 #w-9sjg8jn1 {
-  top: 544px;
+  top: 650px;
   left: -3.5px;
   width: 427px;
   height: 22.5px;
 }
 
-#w-9sjg8jn1 .text-block {
-  background: ;
-}
 
 #w-9sjg8jn1 .text-block-css {
   border-color: rgba(229, 231, 235, 1);
@@ -1412,14 +1401,10 @@ a {
 }
 
 #w-4laqpu8b {
-  top: 647px;
+  top: 740px;
   left: 0px;
   width: 422px;
   height: 30px;
-}
-
-#w-4laqpu8b .text-block {
-  background: ;
 }
 
 #w-4laqpu8b .text-block-css {
@@ -1433,15 +1418,12 @@ a {
 }
 
 #w-t6sp70my {
-  top: 673px;
+  top: 780px;
   left: 115.640625px;
   width: 185px;
   height: 63px;
 }
 
-#w-t6sp70my .text-block {
-  background: ;
-}
 
 #w-t6sp70my .text-block-css {
   border-color: rgba(229, 231, 235, 1);
@@ -1454,7 +1436,7 @@ a {
 }
 
 #w-etp6mi9k {
-  top: 673px;
+  top: 780px;
   left: 30.65625px;
   perspective: 1000px;
   width: 119px;
@@ -1465,7 +1447,6 @@ a {
   border-color: rgba(83, 96, 119, 1);
   border-style: solid;
   border-width: 1px;
-  z-index: ;
 }
 
 #w-etp6mi9k > div {
@@ -1473,14 +1454,10 @@ a {
 }
 
 #w-t7bhqm4q {
-  top: 727px;
+  top: 880px;
   left: 0px;
   width: 422px;
   height: 30px;
-}
-
-#w-t7bhqm4q .text-block {
-  background: ;
 }
 
 #w-t7bhqm4q .text-block-css {
@@ -1494,15 +1471,12 @@ a {
 }
 
 #w-i1vbl2zi {
-  top: 682px;
+  /* top: 713px; */
   left: -123.34375px;
   width: 427px;
   height: 30px;
 }
 
-#w-i1vbl2zi .text-block {
-  background: ;
-}
 
 #w-i1vbl2zi .text-block-css {
   border-color: rgba(229, 231, 235, 1);
@@ -1534,7 +1508,7 @@ a {
 }
 
 #w-17w2298r {
-  top: 673px;
+  top: 780px;
   left: 277px;
   perspective: 1000px;
   width: 114px;
@@ -2642,10 +2616,10 @@ a {
 }
 
 #w-zdqndnfo .image-background {
-  width: 291.56275303643724px;
+  width: 100%;
   height: 224px;
-  top: -78px;
-  left: -45px;
+  top: 0;
+  left: 0;
   /* background: center center/ cover no-repeat scroll content-box border-box url("https://content.pancake.vn/1/s692x624/fwebp/7a/e8/d6/f6/da197a5a3542dfe09e7faa9e118999103385582808a2e2014fc72986.jpg"); */
 }
 
@@ -3988,7 +3962,7 @@ a {
   left: 0px;
   position: relative;
   width: 420px;
-  height: 800px;
+  height: 900px;
 }
 
 #w-5fieb1sl .section-wrapper {
@@ -4094,15 +4068,12 @@ a {
 }
 
 #w-ky87yz5r {
-  top: 559px;
+  /* top: 559px; */
   left: 0px;
   width: 421px;
   height: 60px;
 }
 
-#w-ky87yz5r .text-block {
-  background: ;
-}
 
 #w-ky87yz5r .text-block-css {
   border-color: rgba(229, 231, 235, 1);
@@ -4113,14 +4084,9 @@ a {
 }
 
 #w-9sjg8jn1 {
-  top: 544px;
   left: -3.5px;
   width: 427px;
   height: 22.5px;
-}
-
-#w-9sjg8jn1 .text-block {
-  background: ;
 }
 
 #w-9sjg8jn1 .text-block-css {
@@ -4133,15 +4099,11 @@ a {
 }
 
 #w-4laqpu8b {
-  top: 647px;
   left: 0px;
   width: 422px;
   height: 30px;
 }
 
-#w-4laqpu8b .text-block {
-  background: ;
-}
 
 #w-4laqpu8b .text-block-css {
   border-color: rgba(229, 231, 235, 1);
@@ -4154,15 +4116,11 @@ a {
 }
 
 #w-t6sp70my {
-  top: 673px;
   left: 115.640625px;
   width: 185px;
   height: 63px;
 }
 
-#w-t6sp70my .text-block {
-  background: ;
-}
 
 #w-t6sp70my .text-block-css {
   border-color: rgba(229, 231, 235, 1);
@@ -4175,7 +4133,6 @@ a {
 }
 
 #w-etp6mi9k {
-  top: 673px;
   left: 30.65625px;
   perspective: 1000px;
   width: 119px;
@@ -4186,7 +4143,6 @@ a {
   border-color: rgba(83, 96, 119, 1);
   border-style: solid;
   border-width: 1px;
-  z-index: ;
 }
 
 #w-etp6mi9k > div {
@@ -4194,14 +4150,10 @@ a {
 }
 
 #w-t7bhqm4q {
-  top: 727px;
+  top: 840px;
   left: 0px;
   width: 422px;
   height: 30px;
-}
-
-#w-t7bhqm4q .text-block {
-  background: ;
 }
 
 #w-t7bhqm4q .text-block-css {
@@ -4215,15 +4167,12 @@ a {
 }
 
 #w-i1vbl2zi {
-  top: 682px;
+  top: 800px;
   left: -123.34375px;
   width: 427px;
   height: 30px;
 }
 
-#w-i1vbl2zi .text-block {
-  background: ;
-}
 
 #w-i1vbl2zi .text-block-css {
   border-color: rgba(229, 231, 235, 1);
@@ -4236,7 +4185,7 @@ a {
 }
 
 #w-ciimni63 {
-  top: 701.5px;
+  top: 830px;
   left: 30.65625px;
   perspective: 1000px;
   width: 119px;
@@ -4247,7 +4196,6 @@ a {
   border-color: rgba(83, 96, 119, 1);
   border-style: solid;
   border-width: 1px;
-  z-index: ;
 }
 
 #w-ciimni63 > div {
@@ -4255,7 +4203,7 @@ a {
 }
 
 #w-17w2298r {
-  top: 673px;
+  /* top: 673px; */
   left: 277px;
   perspective: 1000px;
   width: 114px;
@@ -4266,7 +4214,6 @@ a {
   border-color: rgba(83, 96, 119, 1);
   border-style: solid;
   border-width: 1px;
-  z-index: ;
 }
 
 #w-17w2298r > div {
@@ -4274,7 +4221,7 @@ a {
 }
 
 #w-pyo6vvv2 {
-  top: 682px;
+  top: 800px;
   left: 120.5px;
   width: 427px;
   height: 30px;
@@ -4295,7 +4242,7 @@ a {
 }
 
 #w-lig6r9nl {
-  top: 701.5px;
+  top: 830px;
   left: 277px;
   perspective: 1000px;
   width: 114px;
@@ -4306,7 +4253,6 @@ a {
   border-color: rgba(83, 96, 119, 1);
   border-style: solid;
   border-width: 1px;
-  z-index: ;
 }
 
 #w-lig6r9nl > div {
@@ -5363,10 +5309,10 @@ a {
 }
 
 #w-zdqndnfo .image-background {
-  width: 291.56275303643724px;
+  width: 100%;
   height: 224px;
-  top: -78px;
-  left: -45px;
+  top: 0;
+  left: 0;
   /* background: center center/ cover no-repeat scroll content-box border-box url("https://content.pancake.vn/1/s692x624/fwebp/7a/e8/d6/f6/da197a5a3542dfe09e7faa9e118999103385582808a2e2014fc72986.jpg"); */
 }
 
@@ -6704,4 +6650,10 @@ a {
     -webkit-animation-iteration-count: 1;
     animation-duration: 3s;
     -webkit-animation-duration: 3s;
+}
+
+p.cus-font {
+    font-family: "Imperial Script", cursive !important;
+    font-weight: 400;
+    font-style: normal;
 }
